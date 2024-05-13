@@ -1,0 +1,22 @@
+*ERROR* 	v8.1.5	2024/05/12 - 21:18:56: Link to database cannot be established: SQLSTATE[HY000] [2002] Connection refused at line 119 in file classes/db/DbPDO.php
+*ERROR* 	v8.1.5	2024/05/12 - 21:18:56: Link to database cannot be established: SQLSTATE[HY000] [2002] Connection refused at line 119 in file classes/db/DbPDO.php
+*ERROR* 	v8.1.5	2024/05/12 - 22:43:09: Link to database cannot be established: SQLSTATE[HY000] [2002] Connection refused at line 119 in file classes/db/DbPDO.php
+*ERROR* 	v8.1.5	2024/05/12 - 22:43:09: Link to database cannot be established: SQLSTATE[HY000] [2002] Connection refused at line 119 in file classes/db/DbPDO.php
+*ERROR* 	v8.1.5	2024/05/12 - 22:43:15: Link to database cannot be established: SQLSTATE[HY000] [2002] Connection refused at line 119 in file classes/db/DbPDO.php
+*ERROR* 	v8.1.5	2024/05/12 - 22:43:15: Link to database cannot be established: SQLSTATE[HY000] [2002] Connection refused at line 119 in file classes/db/DbPDO.php
+*ERROR* 	v8.1.5	2024/05/12 - 22:43:16: Link to database cannot be established: SQLSTATE[HY000] [2002] Connection refused at line 119 in file classes/db/DbPDO.php
+*ERROR* 	v8.1.5	2024/05/12 - 22:43:16: Link to database cannot be established: SQLSTATE[HY000] [2002] Connection refused at line 119 in file classes/db/DbPDO.php
+*ERROR* 	v8.1.5	2024/05/12 - 22:43:16: Link to database cannot be established: SQLSTATE[HY000] [2002] Connection refused at line 119 in file classes/db/DbPDO.php
+*ERROR* 	v8.1.5	2024/05/12 - 22:43:16: Link to database cannot be established: SQLSTATE[HY000] [2002] Connection refused at line 119 in file classes/db/DbPDO.php
+*ERROR* 	v8.1.5	2024/05/12 - 22:43:17: Link to database cannot be established: SQLSTATE[HY000] [2002] Connection refused at line 119 in file classes/db/DbPDO.php
+*ERROR* 	v8.1.5	2024/05/12 - 22:43:17: Link to database cannot be established: SQLSTATE[HY000] [2002] Connection refused at line 119 in file classes/db/DbPDO.php
+*ERROR* 	v8.1.5	2024/05/12 - 22:43:21: Link to database cannot be established: SQLSTATE[HY000] [2002] Connection refused at line 119 in file classes/db/DbPDO.php
+*ERROR* 	v8.1.5	2024/05/12 - 22:43:21: Link to database cannot be established: SQLSTATE[HY000] [2002] Connection refused at line 119 in file classes/db/DbPDO.php
+*ERROR* 	v8.1.5	2024/05/12 - 22:43:21: Link to database cannot be established: SQLSTATE[HY000] [2002] Connection refused at line 119 in file classes/db/DbPDO.php
+*ERROR* 	v8.1.5	2024/05/12 - 22:43:34: Link to database cannot be established: SQLSTATE[HY000] [2002] Connection refused at line 119 in file classes/db/DbPDO.php
+*ERROR* 	v8.1.5	2024/05/12 - 22:43:34: Link to database cannot be established: SQLSTATE[HY000] [2002] Connection refused at line 119 in file classes/db/DbPDO.php
+*ERROR* 	v8.1.5	2024/05/12 - 22:43:57: Link to database cannot be established: SQLSTATE[HY000] [2002] Connection refused at line 119 in file classes/db/DbPDO.php
+*ERROR* 	v8.1.5	2024/05/12 - 22:43:57: Link to database cannot be established: SQLSTATE[HY000] [2002] Connection refused at line 119 in file classes/db/DbPDO.php
+*ERROR* 	v8.1.5	2024/05/12 - 22:45:06: Link to database cannot be established: SQLSTATE[HY000] [1049] Unknown database &#039;prestashop&#039; at line 119 in file classes/db/DbPDO.php
+*ERROR* 	v8.1.5	2024/05/12 - 22:56:03: Link to database cannot be established: SQLSTATE[HY000] [1049] Unknown database &#039;prestashop&#039; at line 119 in file classes/db/DbPDO.php
+*ERROR* 	v8.1.5	2024/05/12 - 22:56:05: Link to database cannot be established: SQLSTATE[HY000] [1049] Unknown database &#039;prestashop&#039; at line 119 in file classes/db/DbPDO.php

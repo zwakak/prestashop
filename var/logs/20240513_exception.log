@@ -1,0 +1,2 @@
+*ERROR* 	v8.1.5	2024/05/13 - 00:07:50: Link to database cannot be established: SQLSTATE[HY000] [1049] Unknown database &#039;prestashop&#039; at line 119 in file classes/db/DbPDO.php
+*ERROR* 	v8.1.5	2024/05/13 - 00:07:53: Link to database cannot be established: SQLSTATE[HY000] [1049] Unknown database &#039;prestashop&#039; at line 119 in file classes/db/DbPDO.php

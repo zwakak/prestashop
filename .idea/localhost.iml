@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/modules/klaviyopsautomation" isTestSource="false" packagePrefix="KlaviyoPs" />
+      <sourceFolder url="file://$MODULE_DIR$/modules/klaviyopsautomation/klaviyo-v3-sdk" isTestSource="false" packagePrefix="KlaviyoV3Sdk" />
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/var/cache/prod" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="leaflet" level="application" />
+    <orderEntry type="library" name="leaflet-control-geocoder" level="application" />
+    <orderEntry type="library" name="leaflet-search" level="application" />
+    <orderEntry type="library" name="Leaflet.AnimatedSearchBox" level="application" />
+  </component>
+</module>
